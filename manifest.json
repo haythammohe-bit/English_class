@@ -1,0 +1,19 @@
+{
+  "id": "warehouse-english-app",
+  "name": "إنجليزي المخازن — Warehouse English",
+  "short_name": "إنجليزي المخازن",
+  "description": "كورس إنجليزي للمخازن وسلاسل الإمداد: نطق صحيح وتمارين واختبارات وبطاقات كلمات وتمثيل محادثات.",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f3f6fb",
+  "theme_color": "#1f5eff",
+  "categories": ["education"],
+  "icons": [
+    { "src": "icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "icons/icon-maskable.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "maskable" }
+  ]
+}
